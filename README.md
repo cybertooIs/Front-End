@@ -20,7 +20,7 @@ Ecommerce-site
 Password Generator
 <img width="1902" height="875" alt="image" src="https://github.com/user-attachments/assets/f5645b12-7064-444d-b2f2-dcdc3922fbc6" />
 
-Photo Editor
+Online Quiz Website
 <img width="1920" height="889" alt="image" src="https://github.com/user-attachments/assets/3198a45a-d6e7-44c2-adc8-441b1d7eaae1" />
 
 Dictionary App
